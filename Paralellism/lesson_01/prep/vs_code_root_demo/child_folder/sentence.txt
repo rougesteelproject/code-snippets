@@ -1,1 +1,0 @@
-This sentence is the CORRECT sentence! It came from the CHILD sentence.txt file: ./root-demo/child/sentence.txt
